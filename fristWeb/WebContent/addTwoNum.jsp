@@ -23,6 +23,7 @@
    		
    		<td> <input type="text" name="su1" /> </td>	
    	</tr>
+   	
    	<tr>
    	  	<td> 두번째 숫자 </td>
    		<td> <input type="text" name="su2" /> </td>	
